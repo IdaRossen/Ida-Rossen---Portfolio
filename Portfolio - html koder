@@ -1,0 +1,529 @@
+VERSION 1920x1080px
+
+HTML:
+
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Ida Rossen | Multimediedesigner Portfolio</title>
+	<link href="index - version 1920x1080.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Raleway:200,300" rel="stylesheet"> 
+</head>
+
+<body>
+
+	<div class="wrapper">
+			
+	
+		
+			<!-- FORSIDE BLIKFANG -->
+			<div class="forside">
+			<h1>Ida Rossen</h1>
+			<h3>\\ En multimediedesigner under udvikling //</h3>
+			<img src="images/sky-fugl2.png" id="sky-fugl" alt="Illustration af en fugl">
+			
+			</div>
+			
+			<div class="lille-afstand"></div>
+			
+			<!-- ABOUT ME -->
+			<div class="info-om-mig"><h3 id="hello">HELLO.</h3> <p id="hello-paragraf">Du er landet på en hjemmeside der, ligesom dens ejer, er under udvikling. Men frygt ej! Du er nemlig mere end velkommen til at tage et smugekig og lære lidt om mig og min voksende passion for kunst og design.</p></div>
+			
+			<!-- AFSTAND -->
+			<div class="afstand"></div>
+			<div class="afstand" id="info-om-mig"></div>
+			
+			<div class="about"><p>- Ida Rossen, 20 år<br><br>- Studerer Multimediedesign på CPH Business Lyngby i år 2017-2019<br><br>- Fascineret og inspireret af kunst og design som kommunikationsmiddel</p></div>
+			<div class="about2"><img src="images/ida-billede.jpg" id="ida" alt="Billede af Ida Rossen"></div>
+			
+			<!-- AFSTAND -->
+			<div class="afstand"></div>
+			
+			<!-- PROJEKTER -->
+			<article class="info-projekter" id="projekter">
+			<h1 id="projekt-overskrift">DRAWINGS AND DESIGN</h1>
+			<br>
+			 </article>
+			
+			<nav class="menu-portfolio">
+				<ul>
+					<li><a href="#">ALLE</a></li>
+					<li><a href="#">DIGITALT</a></li>
+					<li><a href="#">TRADITIONELT</a></li>
+					<li><a href="#footer">STUDIE</a></li>
+				</ul>
+			</nav>
+			
+			<div class="lille-afstand"></div>
+			
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/liu-2.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/angryhaley.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/26.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/elf.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/gerard.jpg" class="billede" alt="drawing"></a></div>
+			
+			
+			<div class="lille-afstand"></div>
+			
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/singing1.png" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/ugle.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/prototype1.png" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/wild.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/eye.jpg" class="billede" alt="drawing"></a></div>
+			
+		
+			<div class="lille-afstand"></div>
+			
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/ida-logo1.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/1.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/2.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/3.jpg" class="billede" alt="drawing"></a></div>
+			<div class="container"><a href="#"><span class="hover-text">Se Projektet!</span><img src="images/4.jpg" class="billede" alt="drawing"></a></div>
+			
+			<!-- AFSTAND -->
+			<div class="lille-afstand"></div>
+			
+			<!-- PARAGRAF -->
+			<div class="paragraf-overskrifter">INSPIRATION</div>
+			<div class="paragraf-overskrifter">AMBITIONER</div>
+			
+			<div class="projekt-paragraf">
+			<p>Som det måske kan ses ovenfor, så er jeg er jeg fuldstændig bidt af at tegne! Jeg er vildt fascineret af at basere mine tegninger på allerede eksisterende kunst så som musik, portrætfotografier og film. <br> Det kan vel kaldes miljøvenlig kunst! </p>
+			</div>
+			<div class="projekt-paragraf">
+			<p>Jeg vil arbejder mod at blive langt stærkere og selvstændig i mine kreationer. Udover det, så er jeg utrolig spændt på hvad mit studie i multimediedesign vil bringe mig af færdigheder og erfaringer.<br> En ny verden står for døren!</p>
+			</div>
+			<div id="projekt-paragraf"><p id="kommentar">Her vil jeg løbende opdatere mine kreationer og med tiden få mere fokus på det professionelle aspekt.</p></div>
+			
+			<!-- AFSTAND BOKS -->
+			<div class="afstand"></div>
+			
+			<!-- STAY TUNED -->
+			<div class="stay-tuned">
+				<h1 id="stay-tuned">STAY TUNED</h1>
+				<br>
+				<h2 id="stuff">CREATIVE STUFF WILL SOON UNFOLD!</h2>
+			</div>
+			
+			<!-- AFSTAND BOKS -->
+			<div class="afstand"></div>
+			
+			
+			<!-- KONTAKT -->
+			<div class="kontakt">I mellemtiden er du mere end velkommen til at tage et kig på mine forskellige socialemedier eller kontakte mig hvis du er interesseret i et samarbejde med mig. Jeg glæder mig! </div>
+			<!-- KONTAKT IKONER-->
+			<div class="ikoner">
+				
+					<a href="https://www.facebook.com/ida.rossen.1" target="_blank"><img src="images/face.png" id="facebook" alt="facebook ikon"></a>
+					<a href="https://www.instagram.com/ida.rossen/" target="_blank"><img src="images/insta.png" id="instagram" alt="instagram ikon"></a>
+					<a href="mailto:ida.rossen@hotmail.com" target="_blank"><img src="images/mail.png" id="mail" alt="mail ikon"></a>
+				
+			</div>
+					
+			<!-- AFSTAND BOKS -->
+			<div class="afstand" id="footer"></div>
+
+	</div>
+
+
+
+	<!--FIXED -->
+<div class="fixed">
+			<!-- logo-->
+			<a href="#top"><div class="logo"><img id="img" src="images/ida-logo.png" alt="billede af logo"></div></a>
+	
+			<!--menu linje -->
+			<nav class="menu">
+				<ul>
+					
+					<li><a href="#top">Startside</a></li>
+					<li><a href="#info-om-mig">Om mig</a></li>
+					<li><a href="#projekter">Portfolio</a></li>
+					<li><a href="#footer">Kontakt</a></li>
+				</ul>
+			</nav>
+		
+</div>
+
+
+</body>
+</html>
+
+
+
+CSS:
+
+@charset "utf-8";
+/* CSS Document */
+	body {
+		background-image: url(images/background1.jpg);
+		background-repeat: no-repeat;
+   		background-position: right top;
+    	background-attachment: fixed;
+
+	}
+	.wrapper {
+		display: flex;
+		flex-wrap: wrap;
+		width: 1360px;
+		justify-content: space-around;
+		margin-left: auto;
+		margin-right: auto;
+	
+	}	
+	
+	.item {
+		outline: 4px solid aliceblue;
+		margin-bottom: 10px;
+		font-family:'Raleway', sans-serif;
+	}
+/*FORSIDE*/
+	.forside {
+		width: 99%;
+		height:980px;
+		
+	}
+
+	h1 {
+		font-family:'Raleway', sans-serif;
+		text-align: center;
+		margin: auto;
+		align-content: center;
+		color: #FFFFFF;
+		font-size: 200px;
+		text-decoration: underline dotted;
+		margin-top: 270px;
+	}
+	h3 {
+		font-family:'Raleway', sans-serif;
+		margin: auto;
+		color: #FFFFFF;
+		text-align: center;
+		font-size: 40px;
+	}
+
+	#sky-fugl {
+		width: 400px;
+		margin: auto;
+		margin-left: 1000px;
+		
+	}
+/*LILLE AFSTAND*/
+.lille-afstand {
+		width: 99%;
+		height: 50px;
+}
+
+/*ABOUT*/
+	.info-om-mig {
+		width: 99%;
+		font-family:'Raleway', sans-serif;
+	}
+#hello {
+		font-family:'Raleway', sans-serif;
+		margin: auto;
+		color: #3D95A7;
+		text-align: center;
+		font-size: 70px;
+		font-weight: 10;
+}
+#hello-paragraf {
+
+		color: aliceblue;
+		background-color: #3D95A7;
+		font-size: 30px;
+		font-weight: 30;
+		padding: 10px;
+		border-radius: 10px;
+		font-family:'Raleway', sans-serif;
+}
+	.about {
+		width: 59%;
+		height: 280px;
+		color: black;
+		font-size: 30px;
+		text-align: left;
+		background-color: aliceblue;
+		border-radius: 10px;
+		padding: 7px;
+		margin: auto;
+		align-content: center;
+	}
+	.about p {
+		color: #3D95A7;
+		font-size: 30px;
+		margin-top: 7px;
+		font-weight: 30;
+		font-family:'Raleway', sans-serif;
+	}
+	.about2 {
+		width: 39%;
+		height: 290px;
+		border: 5px dotted aliceblue;
+		border-radius: 10px;
+	}
+	#ida {
+	 	display: block;
+   		margin: auto;
+   		width: 50%;
+		margin-top: 7px;
+		border: 5px solid aliceblue;
+	}
+
+
+
+	.afstand {
+		width: 99%;
+		height: 300px;
+	}
+
+
+/*PORTFOLIO*/
+
+/* PORTFOLIO MENU*/
+#projekt-overskrift {
+		font-family:'Raleway', sans-serif;
+		text-align: center;
+		margin: auto;
+		align-content: center;
+		color: #FFFFFF;
+		font-size: 150px;
+		text-decoration: underline dotted;
+}
+.menu-portfolio {
+			width: 79%;
+			height: 70px;
+			margin: auto;
+			align-content: left;	
+}
+.menu-portfolio ul {
+			text-align: center;
+			background-color: aliceblue;
+			border-radius: 10px;
+}
+.menu-portfolio li {
+			list-style: none;/* fjern bullets på listen, først id'en og så liste m. list-style*/
+			margin: 0;
+			padding-top: 0;
+			display: inline; /*lister er normalt block-elementer, ved dette gør man det til en inline */
+			font-family:'Raleway', sans-serif;
+			letter-spacing: 2px;
+			font-size: 1.4em; /* 1em = udgangspunktet*/
+}
+/*dekoration af linksene*/
+.menu-portfolio a {
+	text-decoration: none;
+	font-weight: bold;
+	margin: 0 40px 0 40px; /*giver plads mellem linksene*/
+	color: #3D95A7;
+	
+	float:inherit;
+}
+/*styler på hvordan linksene ser ud når man har musen over*/
+
+.menu-portfolio a:hover {
+	border-bottom:4px solid #3D95A7; /*selve strejen der kommer frem når man hover*/
+	padding-bottom:3px; /*så der ikke er mellemrum*/
+}
+.menu-portfolio a.active {
+    background-color: #3D95A7;
+    color: white;
+}
+
+	.container {
+		width: 19%;
+		height: 250px;
+	}
+	.billede {
+		width: 245px;
+		margin: auto;
+		display: block;
+
+	}
+/*HOVER EFFEKT*/
+	.billede:hover {
+		opacity: 0.6;
+		text-decoration: none;
+	}	
+
+.hover-text {
+ 		display: none;
+  		font-size: 30px;
+		color: #FFFFFF;
+		background-color: #40918e;
+		text-decoration: none;
+		margin:auto;
+		align-content: center;
+		text-align: center;
+		width:98%;
+		height: 30px;
+		font-family:'Raleway', sans-serif;
+		
+	}
+	.container:hover .hover-text {
+	  	display: block;
+		margin: auto;
+		align-content: center;
+	}
+
+
+.paragraf-overskrifter {
+		width:49%;
+		color: #FFFFFF;
+		text-align: center;
+		font-size: 40px;
+		font-weight: bold;
+		padding-top: 10px;
+		padding-left: 10px;
+		font-family:'Raleway', sans-serif;
+}
+.projekt-paragraf {
+		width: 49%;
+		height: auto;
+		color: #3D95A7;
+		background-color: aliceblue;
+		font-size: 20px;
+		font-weight: bold;
+		padding: 5px;
+		border-radius: 10px;
+		font-family:'Raleway', sans-serif;
+		line-height: 2;
+}
+
+#projekt-paragraf {
+		width: 99%;
+	
+}
+#kommentar {
+		color: #FFFFFF;
+		text-align: center;
+		font-size: 40px;
+		font-weight: bold;
+		padding-top: 10px;
+		padding-left: 10px;
+		font-family:'Raleway', sans-serif;
+}
+
+/*STAY TUNED*/
+.stay-tuned {
+	width: 99%;
+	height: 200px;
+}
+#stay-tuned {
+		font-family:'Raleway', sans-serif;
+		text-align: center;
+		margin: auto;
+		align-content: center;
+		color: #3D95A7;
+		font-size: 150px;
+}
+#stuff {
+		font-family:'Raleway', sans-serif;
+		text-align: center;
+		margin: auto;
+		align-content: center;
+		color: #FFFFFF;
+		font-size: 90px;
+}
+/*KONTAKT*/
+	.kontakt {
+		width: 99%;
+		height:auto;
+		padding: 5px;
+		color: #3D95A7;
+		background-color: aliceblue;
+		font-size: 25px;
+		font-style: bolder;
+		font-weight: 30;
+		border-radius: 10px;
+		font-family:'Raleway', sans-serif;
+}
+
+.ikoner {
+	width: 20%;
+	height: 50px;
+	margin: auto;
+	align-content: center;
+}
+#facebook {
+		width: 20%;
+		margin-right: 40px;
+		margin-top: 10px;
+}
+#instagram {
+		width: 20%;
+		margin-right: 45px;
+		margin-top:15px;
+}
+#mail {
+		width: 20%;
+}
+	
+
+
+/*FIXED MENU LINE*/
+.fixed {
+		height: 210px;
+		width: 100%;
+		background-image: url(images/bjerg2.png);
+		background-repeat: no-repeat;
+		background-position: bottom;
+	    overflow: hidden;
+		margin-left: -8px;
+    
+	    position: fixed; /* Set the navbar to fixed position */
+	    bottom: 0; /* Position the navbar at the top of the page */		
+	}
+	.logo {
+			width: 19%;
+			height: 150px;
+			position: fixed;
+			bottom: 4px;
+			left: 9px;
+			
+}
+
+#img {
+			width: 200px;
+}
+/* menu*/
+.menu {
+			width: 79%;
+			height: 70px;
+			position: fixed;
+			margin-left: 130px;
+			bottom: 4px;
+			left: 40px;
+			
+}
+
+.menu ul {
+			text-align: center;
+			
+}
+.menu li {
+			list-style: none;/* fjern bullets på listen, først id'en og så liste m. list-style*/
+			margin: 0;
+			padding-top: 0;
+			display: inline; /*lister er normalt block-elementer, ved dette gør man det til en inline */
+			font-family:'Raleway', sans-serif;
+			letter-spacing: 2px;
+			font-size: 1.8em; /* 1em = udgangspunktet*/
+}
+
+/*dekoration af linksene*/
+.menu a {
+	text-decoration: none;
+	font-weight: bold;
+	margin: 0 40px 0 40px; /*giver plads mellem linksene*/
+	color: #FFFFFF;
+	float:inherit;
+}
+/*styler på hvordan linksene ser ud når man har musen over*/
+
+.menu a:hover {
+	border-bottom:4px solid #FFFFFF; /*selve strejen der kommer frem når man hover*/
+	padding-bottom:3px; /*så der ikke er mellemrum*/
+}
+
