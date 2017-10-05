@@ -160,7 +160,8 @@ CSS:
 		background-image: url(images/background1.jpg);
 		background-repeat: no-repeat;
    		background-position: right top;
-    	background-attachment: fixed;
+    		background-attachment: fixed;
+		background-size: cover;
 
 	}
 	.wrapper {
@@ -178,7 +179,7 @@ CSS:
 		margin-bottom: 10px;
 		font-family:'Raleway', sans-serif;
 	}
-/*FORSIDE*/
+
 	.forside {
 		width: 99%;
 		height:980px;
@@ -213,7 +214,7 @@ CSS:
 .lille-afstand {
 		width: 99%;
 		height: 50px;
-}
+	}
 
 /*ABOUT*/
 	.info-om-mig {
@@ -290,46 +291,46 @@ CSS:
 		color: #FFFFFF;
 		font-size: 150px;
 		text-decoration: underline dotted;
-}
-.menu-portfolio {
-			width: 79%;
-			height: 70px;
-			margin: auto;
-			align-content: left;	
-}
-.menu-portfolio ul {
-			text-align: center;
-			background-color: aliceblue;
-			border-radius: 10px;
-}
-.menu-portfolio li {
-			list-style: none;/* fjern bullets på listen, først id'en og så liste m. list-style*/
-			margin: 0;
-			padding-top: 0;
-			display: inline; /*lister er normalt block-elementer, ved dette gør man det til en inline */
-			font-family:'Raleway', sans-serif;
-			letter-spacing: 2px;
-			font-size: 1.4em; /* 1em = udgangspunktet*/
-}
-/*dekoration af linksene*/
-.menu-portfolio a {
-	text-decoration: none;
-	font-weight: bold;
-	margin: 0 40px 0 40px; /*giver plads mellem linksene*/
-	color: #3D95A7;
-	
-	float:inherit;
-}
+	}
+	.menu-portfolio {
+		width: 79%;
+		height: 70px;
+		margin: auto;
+		align-content: left;	
+	}
+	.menu-portfolio ul {
+		text-align: center;
+		background-color: aliceblue;
+		border-radius: 10px;
+	}
+	.menu-portfolio li {
+		list-style: none;/* fjern bullets på listen, først id'en og så liste m. list-style*/
+		margin: 0;
+		padding-top: 0;
+		display: inline; /*lister er normalt block-elementer, ved dette gør man det til en inline */
+		font-family:'Raleway', sans-serif;
+		letter-spacing: 2px;
+		font-size: 1.4em; /* 1em = udgangspunktet*/
+	}
+	/*dekoration af linksene*/
+	.menu-portfolio a {
+		text-decoration: none;
+		font-weight: bold;
+		margin: 0 40px 0 40px; /*giver plads mellem linksene*/
+		color: #3D95A7;
+		float:inherit;
+	}
+
 /*styler på hvordan linksene ser ud når man har musen over*/
 
-.menu-portfolio a:hover {
-	border-bottom:4px solid #3D95A7; /*selve strejen der kommer frem når man hover*/
-	padding-bottom:3px; /*så der ikke er mellemrum*/
-}
-.menu-portfolio a.active {
-    background-color: #3D95A7;
-    color: white;
-}
+	.menu-portfolio a:hover {
+		border-bottom:4px solid #3D95A7; /*selve strejen der kommer frem når man hover*/
+		padding-bottom:3px; /*så der ikke er mellemrum*/
+	}
+	.menu-portfolio a.active {
+	    background-color: #3D95A7;
+	    color: white;
+	}
 
 	.container {
 		width: 19%;
@@ -347,7 +348,7 @@ CSS:
 		text-decoration: none;
 	}	
 
-.hover-text {
+	.hover-text {
  		display: none;
   		font-size: 30px;
 		color: #FFFFFF;
@@ -368,7 +369,7 @@ CSS:
 	}
 
 
-.paragraf-overskrifter {
+	.paragraf-overskrifter {
 		width:49%;
 		color: #FFFFFF;
 		text-align: center;
@@ -377,8 +378,8 @@ CSS:
 		padding-top: 10px;
 		padding-left: 10px;
 		font-family:'Raleway', sans-serif;
-}
-.projekt-paragraf {
+	}
+	.projekt-paragraf {
 		width: 49%;
 		height: auto;
 		color: #3D95A7;
@@ -389,13 +390,13 @@ CSS:
 		border-radius: 10px;
 		font-family:'Raleway', sans-serif;
 		line-height: 2;
-}
+	}
 
-#projekt-paragraf {
+	#projekt-paragraf {
 		width: 99%;
 	
-}
-#kommentar {
+	}
+	#kommentar {
 		color: #FFFFFF;
 		text-align: center;
 		font-size: 40px;
@@ -403,29 +404,29 @@ CSS:
 		padding-top: 10px;
 		padding-left: 10px;
 		font-family:'Raleway', sans-serif;
-}
+	}
 
 /*STAY TUNED*/
-.stay-tuned {
-	width: 99%;
-	height: 200px;
-}
-#stay-tuned {
+	.stay-tuned {
+		width: 99%;
+		height: 200px;
+	}
+	#stay-tuned {
 		font-family:'Raleway', sans-serif;
 		text-align: center;
 		margin: auto;
 		align-content: center;
 		color: #3D95A7;
 		font-size: 150px;
-}
-#stuff {
+	}
+	#stuff {
 		font-family:'Raleway', sans-serif;
 		text-align: center;
 		margin: auto;
 		align-content: center;
 		color: #FFFFFF;
 		font-size: 90px;
-}
+	}
 /*KONTAKT*/
 	.kontakt {
 		width: 99%;
@@ -438,92 +439,91 @@ CSS:
 		font-weight: 30;
 		border-radius: 10px;
 		font-family:'Raleway', sans-serif;
-}
+	}
 
-.ikoner {
-	width: 20%;
-	height: 50px;
-	margin: auto;
-	align-content: center;
-}
-#facebook {
+	.ikoner {
+		width: 20%;
+		height: 50px;
+		margin: auto;
+		align-content: center;
+	}
+	#facebook {
 		width: 20%;
 		margin-right: 40px;
 		margin-top: 10px;
-}
-#instagram {
+	}
+	#instagram {
 		width: 20%;
 		margin-right: 45px;
 		margin-top:15px;
-}
-#mail {
+	}
+	#mail {
 		width: 20%;
-}
+	}
 	
 
 
 /*FIXED MENU LINE*/
-.fixed {
+	.fixed {
 		height: 210px;
 		width: 100%;
 		background-image: url(images/bjerg2.png);
 		background-repeat: no-repeat;
 		background-position: bottom;
-	    overflow: hidden;
+	    	overflow: hidden;
 		margin-left: -8px;
-    
-	    position: fixed; /* Set the navbar to fixed position */
-	    bottom: 0; /* Position the navbar at the top of the page */		
+    		position: fixed;
+	   	bottom: 0; 	
 	}
 	.logo {
-			width: 19%;
-			height: 150px;
-			position: fixed;
-			bottom: 4px;
-			left: 9px;
+		width: 19%;
+		height: 150px;
+		position: fixed;
+		bottom: 4px;
+		left: 9px;
 			
-}
+	}
 
-#img {
-			width: 200px;
+	#img {
+		width: 200px;
 }
 /* menu*/
-.menu {
-			width: 79%;
-			height: 70px;
-			position: fixed;
-			margin-left: 130px;
-			bottom: 4px;
-			left: 40px;
+	.menu {
+		width: 79%;
+		height: 70px;
+		position: fixed;
+		margin-left: 130px;
+		bottom: 4px;
+		left: 40px;
 			
-}
-
-.menu ul {
-			text-align: center;
+	}
+	
+	.menu ul {
+		text-align: center;
 			
-}
-.menu li {
-			list-style: none;/* fjern bullets på listen, først id'en og så liste m. list-style*/
-			margin: 0;
-			padding-top: 0;
-			display: inline; /*lister er normalt block-elementer, ved dette gør man det til en inline */
-			font-family:'Raleway', sans-serif;
-			letter-spacing: 2px;
-			font-size: 1.8em; /* 1em = udgangspunktet*/
-}
+	}
+	.menu li {
+		list-style: none;/* fjern bullets på listen, først id'en og så liste m. list-style*/
+		margin: 0;
+		padding-top: 0;
+		display: inline; /*lister er normalt block-elementer, ved dette gør man det til en inline */
+		font-family:'Raleway', sans-serif;
+		letter-spacing: 2px;
+		font-size: 1.8em; /* 1em = udgangspunktet*/
+	}
 
 /*dekoration af linksene*/
-.menu a {
-	text-decoration: none;
-	font-weight: bold;
-	margin: 0 40px 0 40px; /*giver plads mellem linksene*/
-	color: #FFFFFF;
-	float:inherit;
-}
+	.menu a {
+		text-decoration: none;
+		font-weight: bold;
+		margin: 0 40px 0 40px; /*giver plads mellem linksene*/
+		color: #FFFFFF;
+		float:inherit;
+	}
 /*styler på hvordan linksene ser ud når man har musen over*/
 
-.menu a:hover {
-	border-bottom:4px solid #FFFFFF; /*selve strejen der kommer frem når man hover*/
-	padding-bottom:3px; /*så der ikke er mellemrum*/
-}
+	.menu a:hover {
+		border-bottom:4px solid #FFFFFF; /*selve strejen der kommer frem når man hover*/
+		padding-bottom:3px; /*så der ikke er mellemrum*/
+	}
 
